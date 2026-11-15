@@ -37,3 +37,4 @@ def render(grid):
     
     # Remove the last newline character so there is no empty line at the end
     return result[:-1]
+
